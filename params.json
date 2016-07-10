@@ -1,6 +1,6 @@
 {
   "name": "openvpn-1.1.17",
   "tagline": "",
-  "body": "* 安装步骤：\r\n* 1 下载openvnp --> 安装 openvpn\r\n* 2 下载配置文件 --> 打开此配置文件 --> 选择打开的程序 openvpn --> 安装完成。\r\n![](http://123.206.86.253:88/img/openvpn.png)\r\nopenvpn app下载  [下载连接](http://123.206.86.253:88/openvpn-1.1.17.apk)\r\n\r\n![](http://123.206.86.253:88/img/openvpncnf.png)\r\n 配置文件下载   [下载连接](http://123.206.86.253:88/OpenVPN-HTTP.zip)\r\n\r\n \r\n    ",
+  "body": "* 安装步骤：\r\n* 1 下载openvnp --> 安装 openvpn\r\n* 2 下载配置文件 --> 打开此配置文件 --> 选择打开的程序 openvpn --> 安装完成。\r\n![](http://123.206.86.253:88/img/openvpn.png)\r\nopenvpn app下载  [下载连接](http://123.206.86.253:88/openvpn-1.1.17.apk)\r\n\r\n![](http://123.206.86.253:88/img/openvpncnf.png)\r\n 配置文件下载   [下载连接](http://123.206.86.253:88/OpenVPN-HTTP.zip)\r\n\r\n \r\n  联系微信：vincelv  qq：3513995124",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
